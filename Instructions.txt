@@ -1,0 +1,7 @@
+INSTRUCTION ON HOW TO TRY A GAME OUT
+1) Download the folder 
+2) Enter the directory with the game's name 
+3) Open 'index.html' file in a browser
+
+
+//The code can be found with sketch.js as the main 
